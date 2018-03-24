@@ -1,2 +1,6 @@
 # Go_Test
-Go test code
+**This project contains some go test code:**
+
+**The project support platform: windows7/10 and ubuntu 64 bits.**
+
+**Blog:** [fengbingchun](https://blog.csdn.net/fengbingchun/article/category/7535244)
