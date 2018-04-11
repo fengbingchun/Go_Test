@@ -1,5 +1,7 @@
 # Go_Test
 **This project contains some go test code:**
+- simple test code
+	-variable
 
 **The project support platform: windows7/10 and ubuntu 64 bits.**
 
