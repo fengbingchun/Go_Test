@@ -4,6 +4,9 @@
 	- variable
 	- constant
 	- operator
+	- conditional statements
+	- loop statements
+	- function
 
 **The project support platform: windows7/10 and ubuntu 64 bits.**
 
