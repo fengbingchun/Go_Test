@@ -7,6 +7,8 @@
 	- conditional statements
 	- loop statements
 	- function
+	- array
+	- pointer
 
 **The project support platform: windows7/10 and ubuntu 64 bits.**
 
