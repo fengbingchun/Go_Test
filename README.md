@@ -9,6 +9,13 @@
 	- function
 	- array
 	- pointer
+	- struct
+	- range
+	- map
+	- slice
+	- recursion
+	- interface
+	- error
 
 **The project support platform: windows7/10 and ubuntu 64 bits.**
 
